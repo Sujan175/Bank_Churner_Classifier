@@ -11,6 +11,6 @@ The dataset was taken from kaggle [kaggle](https://www.kaggle.com/sakshigoyal7/c
 2. Data imbalance was taken care of by performing stratified train_test_split.
 3. One-Hot encoding was used to transform catogorical features.
 
-Model Selection:
+### Model Selection:
 A gradient booting classifier was selected, hyper-parameter tuning was not performed as the base model preformed really well on the dataset.
 
